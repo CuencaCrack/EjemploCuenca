@@ -2,6 +2,10 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
+// Cuenca
+// Gonzalez 
+// Marcos
+// Aldahir
 
 class conexionWeb{
   private:
